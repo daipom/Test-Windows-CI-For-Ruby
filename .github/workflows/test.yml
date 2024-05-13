@@ -5,7 +5,7 @@ on:
 
 jobs:
   test:
-    runs-on: windows-2019
+    runs-on: windows-latest
     continue-on-error: false
     strategy:
       fail-fast: false
