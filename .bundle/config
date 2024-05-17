@@ -1,2 +1,0 @@
----
-BUNDLE_BUILD__COOL__IO: "--with-cflags=\\-Wno-incompatible-pointer-types\\"
